@@ -1,0 +1,27 @@
+[debug] [2018-08-25T07:52:33.249Z] ----------------------------------------------------------------------
+[debug] [2018-08-25T07:52:33.252Z] Command:       /usr/bin/node /usr/local/bin/firebase serve
+[debug] [2018-08-25T07:52:33.252Z] CLI Version:   4.2.0
+[debug] [2018-08-25T07:52:33.252Z] Platform:      linux
+[debug] [2018-08-25T07:52:33.252Z] Node Version:  v8.10.0
+[debug] [2018-08-25T07:52:33.252Z] Time:          Sat Aug 25 2018 10:52:33 GMT+0300 (EAT)
+[debug] [2018-08-25T07:52:33.252Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-25T07:52:33.261Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-25T07:52:33.261Z] > authorizing via signed-in user
+[debug] [2018-08-25T07:52:33.263Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/elvis-360-magazine  
+ 
+[debug] [2018-08-25T07:52:35.080Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-25T07:52:35.082Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/elvis-360-magazine  
+ 
+[debug] [2018-08-25T07:52:36.530Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/olive/Desktop/wordpress/firebase-function'...
+[info] 
+[info] i  functions: Preparing to emulate functions.
+[debug] [2018-08-25T07:52:38.254Z] Fetching environment
+[debug] [2018-08-25T07:52:38.256Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/994874783832:getServerAppConfig  
+ 
+[debug] [2018-08-25T07:52:39.483Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-25T07:52:39.484Z] Starting @google-cloud/functions-emulator
+[debug] [2018-08-25T07:52:42.624Z] Parsing function triggers
+[info] ✔  functions: helloWorld: http://localhost:5000/elvis-360-magazine/us-central1/helloWorld

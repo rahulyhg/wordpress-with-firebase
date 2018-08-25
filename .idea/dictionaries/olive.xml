@@ -1,0 +1,37 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="olive">
+    <words>
+      <w>abspath</w>
+      <w>commentmeta</w>
+      <w>dbhost</w>
+      <w>dbname</w>
+      <w>dbpassword</w>
+      <w>dbuser</w>
+      <w>firebase</w>
+      <w>fopen</w>
+      <w>getpostcategory</w>
+      <w>getposttitle</w>
+      <w>matchcat</w>
+      <w>multisite</w>
+      <w>mysqlstring</w>
+      <w>noapi</w>
+      <w>pingbacks</w>
+      <w>predeploy</w>
+      <w>pung</w>
+      <w>quant</w>
+      <w>removepostdata</w>
+      <w>signups</w>
+      <w>sitecategories</w>
+      <w>sitemeta</w>
+      <w>trackbacks</w>
+      <w>uname</w>
+      <w>unserialize</w>
+      <w>unserialized</w>
+      <w>usermeta</w>
+      <w>weekstartend</w>
+      <w>wpdb</w>
+      <w>wpinc</w>
+      <w>xmlrpc</w>
+    </words>
+  </dictionary>
+</component>
